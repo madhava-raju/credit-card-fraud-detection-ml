@@ -4,6 +4,10 @@ A Machine Learning project that detects potentially fraudulent credit card trans
 
 The project uses anonymized transaction features, performs data preprocessing and exploratory analysis, compares multiple classification models, and deploys the selected **Random Forest Classifier** for fraud prediction.
 
+## 🚀 Live Demo
+
+👉 **[Try FraudGuard AI](https://credit-card-fraud-detection-ml-ibvaas8srypq7kyleecexn.streamlit.app/)**
+
 ---
 
 ## 📌 Overview
